@@ -7,6 +7,8 @@ from concurrent.futures import ThreadPoolExecutor
 import pyfiglet
 from pyfiglet import figlet_format
 
+__author__ = "gl0wy"
+
 class color:
    PURPLE = '\033[1;35;48m'
    CYAN = '\033[1;36;48m'
