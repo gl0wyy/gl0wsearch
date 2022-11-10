@@ -3,7 +3,7 @@
 
 gl0wsearch is a tool programmed in Python to brute-force web server directories and vhosts/subdomains. I will be consistently improving the tool and adding new features. If you have any feedback or suggestions please message me on discord: gl0wy#5751
 
-![cmd](https://user-images.githubusercontent.com/98056797/201201378-689a57a6-1e7f-4800-b521-1896f17c7cb0.png)
+![cmd](https://user-images.githubusercontent.com/98056797/201212419-1e6a62ca-6b36-48c5-aab5-141f7edf7649.png)
 </div>
 
 ### Download
