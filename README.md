@@ -1,8 +1,7 @@
 <div align='center'>
 <img src='https://user-images.githubusercontent.com/98056797/201240451-d09a459d-175a-45cf-8f75-457247971eed.png'></img>
 
-gl0wsearch is a tool programmed in Python to brute-force web server directories and vhosts/subdomains. I will be consistently improving the tool and adding new 
-If you have any feedback or suggestions please message me on discord: gl0wy#5751
+gl0wsearch is a tool programmed in Python used to brute-force web server directories and vhosts/subdomains. I will be consistently improving the tool and adding new features. If you have any feedback or suggestions please contact me on discord: gl0wy#5751
 
 ![cmd](https://user-images.githubusercontent.com/98056797/201212419-1e6a62ca-6b36-48c5-aab5-141f7edf7649.png)
 </div>
